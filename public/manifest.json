@@ -1,0 +1,12 @@
+{
+  "name": "Knave 2",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Knave 2",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 1300,
+    "width": 900
+  }
+}
