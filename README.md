@@ -1,1 +1,1 @@
-# Knave 2 Owlbear.rodeo addon
+# Knave 2 Owlbear.rodeo Extension
